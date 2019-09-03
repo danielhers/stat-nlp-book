@@ -32,8 +32,8 @@ pickleshare==0.7.4
 prompt-toolkit==1.0.15
 protobuf==3.4.0
 Pygments==2.2.0
-pyparsing==2.4.2
-python-crfsuite==0.9.5
+pyparsing==2.2.0
+python-crfsuite==0.9.6
 pytz==2017.2
 qtconsole==4.3.1
 rise==5.0.0
