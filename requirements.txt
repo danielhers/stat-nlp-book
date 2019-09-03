@@ -2,7 +2,7 @@ appnope==0.1.0
 bleach==3.1.0
 cycler==0.10.0
 decorator==4.1.2
-graphviz==0.8
+graphviz==0.12
 html5lib==0.9999999
 ipykernel==4.6.1
 ipython==7.8.0
